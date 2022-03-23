@@ -1,0 +1,18 @@
+# This is yml file
+# scalar
+name: raja
+age: 35
+city: Banglore
+text: '@'
+---
+countries:
+  -Singapore
+  -Italy
+  -India
+
+Address:
+- primary: Vizag
+- secondary: Banglore
+
+
+
